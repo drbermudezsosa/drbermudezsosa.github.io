@@ -9,8 +9,8 @@
 [Font Awesome](fortawesome.github.com/Font-Awesome)
 
 ### Other
-* html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-* [CSS3 Pie](css3pie.com)
-* [Respond.js](j.mp/respondjs)
-* [Skel](skel.io)
-    
+* [html5shiv.js](https://github.com/aFarkas/html5shiv)
+* [CSS3 Pie](http://css3pie.com)
+* [Respond.js](https://j.mp/respondjs)
+* [Skel](http://skel.io)
+
